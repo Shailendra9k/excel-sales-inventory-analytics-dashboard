@@ -1,6 +1,3 @@
-Here’s a stronger and more professional README file version optimized for your GitHub portfolio and relevant for the [ICEYE Careers](https://jobs.ashbyhq.com/iceye/859e419b-7491-49e6-8f44-d57ed25411ce?utm_source=chatgpt.com) role.
-
----
 
 # Excel Sales Analytics Dashboard
 
@@ -161,6 +158,23 @@ The dashboard tracks important business metrics such as:
 ![Payment Analysis](screenshots/payment_mode_analysis.png)
 
 ---
+# Screenshots
+
+## Dashboard Overview
+
+![Dashboard](dashboard_overview.png)
+
+## Pivot Table Analysis
+
+![Pivot Table](pivot_table_analysis.png)
+
+## Regional Sales Analysis
+
+![Sales by Region](sales_by_region.png)
+
+## Payment Mode Analysis
+
+![Payment Analysis](payment_mode_analysis.png)
 
 # Project Learnings
 
