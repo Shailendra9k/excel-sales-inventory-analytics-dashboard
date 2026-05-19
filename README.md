@@ -177,7 +177,7 @@ Through this project, I improved my understanding of:
 
 # Why This Project Matters
 
-This project demonstrates practical analytical and reporting skills required in modern data-driven organizations.
+This project demonstrates practical, analytical, and reporting skills required in modern data-driven organizations.
 
 It showcases the ability to:
 
@@ -189,20 +189,8 @@ It showcases the ability to:
 
 ---
 
-# Future Improvements
-
-Possible future enhancements include:
-
-* Power BI integration
-* SQL database connection
-* Automated reporting pipelines
-* Advanced Excel formulas
-* Python-based analytics automation
-
----
-
 # About Me
 
-I am currently building my career in Data Analytics and Data Engineering with strong interest in business intelligence, reporting, and operational analytics.
+I am currently building my career in Data Analytics with a strong interest in business intelligence, reporting, and operational analytics.
 
 This project is part of my hands-on portfolio focused on solving real-world business problems using data.
