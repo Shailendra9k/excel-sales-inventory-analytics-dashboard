@@ -143,25 +143,6 @@ The dashboard tracks important business metrics such as:
 
 ## Dashboard Overview
 
-![Dashboard](screenshots/dashboard_overview.png)
-
-## Pivot Table Analysis
-
-![Pivot Table](screenshots/pivot_table_analysis.png)
-
-## Regional Sales Analysis
-
-![Sales by Region](screenshots/sales_by_region.png)
-
-## Payment Mode Analysis
-
-![Payment Analysis](screenshots/payment_mode_analysis.png)
-
----
-# Screenshots
-
-## Dashboard Overview
-
 ![Dashboard](dashboard_overview.png)
 
 ## Pivot Table Analysis
