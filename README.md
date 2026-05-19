@@ -157,6 +157,18 @@ The dashboard tracks important business metrics such as:
 
 ![Payment Analysis](payment_mode_analysis.png)
 
+## Data Model Analysis
+
+![Data Model](data_model.png)
+
+## Product Category Analysis
+
+![Product Catogory Analysis](product_category_analysis.png)
+
+## KPI Summary Table
+
+![KPI Summary Table](kpi_summary_table.png)
+
 # Project Learnings
 
 Through this project, I improved my understanding of:
